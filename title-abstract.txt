@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Developing a LLM-Driven Multi-Agent Framework for Multimodal Translation>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<This research presents a multi-agent framework for multimodal translation, focusing on manga and literary content translation. The framework integrates specialized agents that handle different aspects of the translation process, from text detection to typesetting. By combining OCR-based text extraction, LLM-driven translation with visual context awareness, and automated typesetting, the system aims to produce high-quality translations while maintaining style consistency and cultural nuances. Initial results demonstrate the framework's potential for processing raw content into reader-ready translations, suggesting promising applications for expanding this approach to other media types. The research contributes to advancing automated translation systems by addressing the challenges of context preservation and visual-textual integration in multimodal content.>
